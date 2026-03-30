@@ -50,8 +50,8 @@ Mesos is set in the Mesolithic era — thousands of years ago, when humankind be
 
 The game is played over **10 rounds**, divided into **three Eras**:
 
-| Era | Rounds |
-|-----|--------|
+| Era     | Rounds      |
+| ------- | ----------- |
 | Era I   | Rounds 1–4  |
 | Era II  | Rounds 5–7  |
 | Era III | Rounds 8–10 |
@@ -95,13 +95,13 @@ Events are telegraphed in advance — they are visible above the Offer Track fro
 
 Each Tribe card represents a person with a **specialty**:
 
-| Specialty | Role |
-|-----------|------|
-| Hunter    | Valuable for hunting Events and scoring |
-| Gatherer  | Provides Food for constructing Buildings |
-| Builder   | Reduces Building construction costs |
-| Healer    | Protects against negative Events |
-| Elder     | High Prestige Point value, special abilities |
+| Specialty | Role                                             |
+| --------- | ------------------------------------------------ |
+| Hunter    | Valuable for hunting Events and scoring          |
+| Gatherer  | Provides Food for constructing Buildings         |
+| Builder   | Reduces Building construction costs              |
+| Healer    | Protects against negative Events                 |
+| Elder     | High Prestige Point value, special abilities     |
 | Child     | Low cost; grows into more powerful tribe members |
 
 Tribe members also have a **Food cost** to recruit and a **PP value** for end-game scoring.
@@ -144,11 +144,11 @@ When the game transitions between Eras:
 
 The game ends after **Round 10** (the final round of Era III). Players then total their **Prestige Points**:
 
-| Source | PP |
-|--------|----|
-| Tribe member PP values | As printed on each card |
-| Building end-game bonuses | Varies by building |
-| Prestige Point tokens collected during Events | As earned |
+| Source                                        | PP                      |
+| --------------------------------------------- | ----------------------- |
+| Tribe member PP values                        | As printed on each card |
+| Building end-game bonuses                     | Varies by building      |
+| Prestige Point tokens collected during Events | As earned               |
 
 The player with the **most Prestige Points wins**. In case of a tie, the tied player with the most Food tokens wins. If still tied, the tied player with the most Tribe cards wins.
 
@@ -167,6 +167,7 @@ The player with the **most Prestige Points wins**. In case of a tie, the tied pl
 ## Quick Reference
 
 **Round sequence:**
+
 1. Totem Placement (choose Offer Track space)
 2. Card Drafting (in turn order)
 3. Refill display
@@ -176,4 +177,4 @@ The player with the **most Prestige Points wins**. In case of a tie, the tied pl
 
 ---
 
-*Mesos is designed by Yaniv Kahana and Simone Luciani. Published by Cranio Creations and Gravitix Games.*
+_Mesos is designed by Yaniv Kahana and Simone Luciani. Published by Cranio Creations and Gravitix Games._
